@@ -19,4 +19,4 @@ This case study based on the e-commerce/retail domain
 
 Using the results from this case study, one can prioritise the work of following up with specific customers beforehand to get the payments on time.
 
--- This case study is part of UpGrad Curriculum
+-- This case study is part of upGrad Curriculum
